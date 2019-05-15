@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhoCalendario", "TrabalhoCalendario\TrabalhoCalendario.csproj", "{062F2C2B-2F96-4AB1-A8D7-B2B2C6F897E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{062F2C2B-2F96-4AB1-A8D7-B2B2C6F897E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062F2C2B-2F96-4AB1-A8D7-B2B2C6F897E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062F2C2B-2F96-4AB1-A8D7-B2B2C6F897E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062F2C2B-2F96-4AB1-A8D7-B2B2C6F897E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49EE7455-E55C-4978-8820-281CA585F570}
+	EndGlobalSection
+EndGlobal
